@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ11\StringSplit\StringSplit\bin\Debug\StringSplit.exe
+D:\Учебные документы Жени\ООП\ЛБ11\StringSplit\StringSplit\bin\Debug\StringSplit.pdb
+D:\Учебные документы Жени\ООП\ЛБ11\StringSplit\StringSplit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ11\StringSplit\StringSplit\obj\x86\Debug\StringSplit.exe
+D:\Учебные документы Жени\ООП\ЛБ11\StringSplit\StringSplit\obj\x86\Debug\StringSplit.pdb

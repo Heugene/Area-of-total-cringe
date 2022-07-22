@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\Базы данных\ЛБ6\LB6\LB6\bin\Debug\LB6.exe
+D:\Учебные документы Жени\Базы данных\ЛБ6\LB6\LB6\bin\Debug\LB6.pdb
+D:\Учебные документы Жени\Базы данных\ЛБ6\LB6\LB6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\Базы данных\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.exe
+D:\Учебные документы Жени\Базы данных\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.pdb

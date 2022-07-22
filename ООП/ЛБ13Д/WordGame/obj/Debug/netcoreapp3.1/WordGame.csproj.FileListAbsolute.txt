@@ -1,0 +1,14 @@
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\bin\Debug\netcoreapp3.1\WordGame.exe
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\bin\Debug\netcoreapp3.1\WordGame.deps.json
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\bin\Debug\netcoreapp3.1\WordGame.runtimeconfig.json
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\bin\Debug\netcoreapp3.1\WordGame.runtimeconfig.dev.json
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\bin\Debug\netcoreapp3.1\WordGame.dll
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\bin\Debug\netcoreapp3.1\WordGame.pdb
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.AssemblyInfoInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.AssemblyInfo.cs
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.dll
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.pdb
+F:\Учебные документы Жени\ООП\ЛБ13Д\WordGame\obj\Debug\netcoreapp3.1\WordGame.genruntimeconfig.cache

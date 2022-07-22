@@ -1,0 +1,9 @@
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\bin\Debug\LB1.exe.config
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\bin\Debug\LB1.exe
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\bin\Debug\LB1.pdb
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\obj\Debug\LB1.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\obj\Debug\LB1.Form1.resources
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\obj\Debug\LB1.Properties.Resources.resources
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\obj\Debug\LB1.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\obj\Debug\LB1.exe
+F:\Учебные документы Жени\ИСВП\ЛБ1_Ф\LB1\LB1\obj\Debug\LB1.pdb

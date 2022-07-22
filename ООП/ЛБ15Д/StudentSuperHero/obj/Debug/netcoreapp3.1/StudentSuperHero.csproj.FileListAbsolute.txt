@@ -1,0 +1,14 @@
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\bin\Debug\netcoreapp3.1\StudentSuperHero.exe
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\bin\Debug\netcoreapp3.1\StudentSuperHero.deps.json
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\bin\Debug\netcoreapp3.1\StudentSuperHero.runtimeconfig.json
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\bin\Debug\netcoreapp3.1\StudentSuperHero.runtimeconfig.dev.json
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\bin\Debug\netcoreapp3.1\StudentSuperHero.dll
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\bin\Debug\netcoreapp3.1\StudentSuperHero.pdb
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.AssemblyInfoInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.AssemblyInfo.cs
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.dll
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.pdb
+F:\Учебные документы Жени\ООП\ЛБ15Д\StudentSuperHero\obj\Debug\netcoreapp3.1\StudentSuperHero.genruntimeconfig.cache

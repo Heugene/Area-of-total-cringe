@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ10\Exception_Testing\Exception_Testing\bin\Debug\Exception_Testing.exe
+D:\Учебные документы Жени\ООП\ЛБ10\Exception_Testing\Exception_Testing\bin\Debug\Exception_Testing.pdb
+D:\Учебные документы Жени\ООП\ЛБ10\Exception_Testing\Exception_Testing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ10\Exception_Testing\Exception_Testing\obj\x86\Debug\Exception_Testing.exe
+D:\Учебные документы Жени\ООП\ЛБ10\Exception_Testing\Exception_Testing\obj\x86\Debug\Exception_Testing.pdb

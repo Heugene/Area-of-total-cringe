@@ -1,0 +1,16 @@
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\bin\Debug\StudSessionProject.exe.config
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\bin\Debug\StudSessionProject.exe
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\bin\Debug\StudSessionProject.pdb
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.Form1.resources
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.Form2.resources
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.Properties.Resources.resources
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.exe
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.pdb
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.Form3.resources
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.Form4.resources
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.Form5.resources
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.Form6.resources
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.csproj.SuggestedBindingRedirects.cache
+F:\Учебные документы Жени\Базы данных\Проект с БД сессия\StudSessionProject\StudSessionProject\obj\Debug\StudSessionProject.csproj.CoreCompileInputs.cache

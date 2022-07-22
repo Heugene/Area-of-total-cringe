@@ -1,0 +1,10 @@
+D:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\bin\Debug\CompArray.exe
+D:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\bin\Debug\CompArray.pdb
+D:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\obj\x86\Debug\CompArray.exe
+D:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\obj\x86\Debug\CompArray.pdb
+F:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\obj\x86\Debug\CompArray.exe
+F:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\obj\x86\Debug\CompArray.pdb
+F:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\bin\Debug\CompArray.exe
+F:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\bin\Debug\CompArray.pdb
+F:\Учебные документы Жени\ООП\ЛБ9\CompArray\CompArray\obj\x86\Debug\ResolveAssemblyReference.cache

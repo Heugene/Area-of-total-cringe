@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ5\Portmone\Portmone\bin\Debug\Portmone.exe
+D:\Учебные документы Жени\ООП\ЛБ5\Portmone\Portmone\bin\Debug\Portmone.pdb
+D:\Учебные документы Жени\ООП\ЛБ5\Portmone\Portmone\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ5\Portmone\Portmone\obj\x86\Debug\Portmone.exe
+D:\Учебные документы Жени\ООП\ЛБ5\Portmone\Portmone\obj\x86\Debug\Portmone.pdb

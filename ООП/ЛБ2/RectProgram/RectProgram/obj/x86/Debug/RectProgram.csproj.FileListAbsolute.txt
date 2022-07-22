@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ2\RectProgram\RectProgram\bin\Debug\RectProgram.exe
+D:\Учебные документы Жени\ООП\ЛБ2\RectProgram\RectProgram\bin\Debug\RectProgram.pdb
+D:\Учебные документы Жени\ООП\ЛБ2\RectProgram\RectProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ2\RectProgram\RectProgram\obj\x86\Debug\RectProgram.exe
+D:\Учебные документы Жени\ООП\ЛБ2\RectProgram\RectProgram\obj\x86\Debug\RectProgram.pdb

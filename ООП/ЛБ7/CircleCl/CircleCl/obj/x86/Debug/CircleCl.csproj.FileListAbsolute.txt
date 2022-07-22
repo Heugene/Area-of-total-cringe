@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ7\CircleCl\CircleCl\bin\Debug\CircleCl.exe
+D:\Учебные документы Жени\ООП\ЛБ7\CircleCl\CircleCl\bin\Debug\CircleCl.pdb
+D:\Учебные документы Жени\ООП\ЛБ7\CircleCl\CircleCl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ7\CircleCl\CircleCl\obj\x86\Debug\CircleCl.exe
+D:\Учебные документы Жени\ООП\ЛБ7\CircleCl\CircleCl\obj\x86\Debug\CircleCl.pdb

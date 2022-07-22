@@ -1,0 +1,9 @@
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\bin\Debug\FunctionCalculator.exe.config
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\bin\Debug\FunctionCalculator.exe
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\bin\Debug\FunctionCalculator.pdb
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.Form1.resources
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.Properties.Resources.resources
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.exe
+F:\Учебные документы Жени\ИСВП\ЛБ7\FunctionCalculator\FunctionCalculator\obj\Debug\FunctionCalculator.pdb

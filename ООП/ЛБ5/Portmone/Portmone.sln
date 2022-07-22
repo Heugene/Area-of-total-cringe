@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portmone", "Portmone\Portmone.csproj", "{E5E02B1A-7310-4588-ABC7-2B5470AB76E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E02B1A-7310-4588-ABC7-2B5470AB76E9}.Debug|x86.ActiveCfg = Debug|x86
+		{E5E02B1A-7310-4588-ABC7-2B5470AB76E9}.Debug|x86.Build.0 = Debug|x86
+		{E5E02B1A-7310-4588-ABC7-2B5470AB76E9}.Release|x86.ActiveCfg = Release|x86
+		{E5E02B1A-7310-4588-ABC7-2B5470AB76E9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

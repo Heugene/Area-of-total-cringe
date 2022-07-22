@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ18\StudentRun\StudentRun\bin\Debug\StudentRun.exe
+D:\Учебные документы Жени\ООП\ЛБ18\StudentRun\StudentRun\bin\Debug\StudentRun.pdb
+D:\Учебные документы Жени\ООП\ЛБ18\StudentRun\StudentRun\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ18\StudentRun\StudentRun\obj\x86\Debug\StudentRun.exe
+D:\Учебные документы Жени\ООП\ЛБ18\StudentRun\StudentRun\obj\x86\Debug\StudentRun.pdb

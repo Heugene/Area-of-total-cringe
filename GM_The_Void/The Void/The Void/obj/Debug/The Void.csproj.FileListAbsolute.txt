@@ -1,0 +1,20 @@
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\bin\Debug\The Void.exe.config
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\bin\Debug\The Void.exe
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\bin\Debug\The Void.pdb
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\obj\Debug\The Void.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\obj\Debug\The_Void.Main.resources
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\obj\Debug\The_Void.Properties.Resources.resources
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\obj\Debug\The Void.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\obj\Debug\The Void.exe
+F:\Учебные документы Жени\Практика 3 курс\Задание 1\The Void\The Void\obj\Debug\The Void.pdb
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\bin\Debug\The Void.exe.config
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\bin\Debug\The Void.exe
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\bin\Debug\The Void.pdb
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The Void.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The Void.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The_Void.Main.resources
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The_Void.Properties.Resources.resources
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The Void.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The Void.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The Void.exe
+C:\Users\Admin\Documents\Labworks\Задание 1\The Void\The Void\obj\Debug\The Void.pdb

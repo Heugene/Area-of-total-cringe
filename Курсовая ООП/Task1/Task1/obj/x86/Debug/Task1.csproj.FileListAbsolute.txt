@@ -1,0 +1,11 @@
+D:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\bin\Debug\Task1.exe
+D:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\bin\Debug\Task1.pdb
+D:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\obj\x86\Debug\Task1.exe
+D:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\obj\x86\Debug\Task1.pdb
+F:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\bin\Debug\Task1.exe
+F:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\bin\Debug\Task1.pdb
+F:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\obj\x86\Debug\Task1.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\obj\x86\Debug\Task1.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\obj\x86\Debug\Task1.exe
+F:\Учебные документы Жени\Курсовая 3 курс\Задание 1\Task1\Task1\obj\x86\Debug\Task1.pdb

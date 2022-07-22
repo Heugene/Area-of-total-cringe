@@ -1,0 +1,8 @@
+F:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\bin\Debug\MassProgram.exe
+F:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\bin\Debug\MassProgram.pdb
+F:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\obj\x86\Debug\MassProgram.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\obj\x86\Debug\MassProgram.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\obj\x86\Debug\MassProgram.exe
+F:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\obj\x86\Debug\MassProgram.pdb
+d:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\obj\x86\Debug\MassProgram.exe
+d:\Учебные документы Жени\ООП\ЛБ4\MassProgram\MassProgram\obj\x86\Debug\MassProgram.pdb

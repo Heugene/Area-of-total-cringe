@@ -1,0 +1,9 @@
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\bin\Debug\NumbericMess.exe.config
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\bin\Debug\NumbericMess.exe
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\bin\Debug\NumbericMess.pdb
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\obj\Debug\NumbericMess.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\obj\Debug\NumbericMess.Form1.resources
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\obj\Debug\NumbericMess.Properties.Resources.resources
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\obj\Debug\NumbericMess.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\obj\Debug\NumbericMess.exe
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 3\NumbericMess\NumbericMess\obj\Debug\NumbericMess.pdb

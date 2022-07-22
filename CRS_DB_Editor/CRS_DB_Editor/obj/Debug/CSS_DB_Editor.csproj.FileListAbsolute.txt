@@ -1,0 +1,10 @@
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\bin\Debug\CRS_DB_Editor.exe.config
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\bin\Debug\CRS_DB_Editor.exe
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\bin\Debug\CRS_DB_Editor.pdb
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\obj\Debug\CSS_DB_Editor.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\obj\Debug\CSS_DB_Editor.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\obj\Debug\CRS_DB_Editor.exe
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\obj\Debug\CRS_DB_Editor.pdb
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\obj\Debug\CSS_DB_Editor.Main.resources
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\obj\Debug\CSS_DB_Editor.Properties.Resources.resources
+F:\Учебные документы Жени\Практика 3 курс\Задание 3\CRS_DB_Editor\CRS_DB_Editor\obj\Debug\CSS_DB_Editor.Info.resources

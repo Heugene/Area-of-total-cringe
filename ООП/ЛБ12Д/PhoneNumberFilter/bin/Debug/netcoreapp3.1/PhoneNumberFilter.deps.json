@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PhoneNumberFilter/1.0.0": {
+        "runtime": {
+          "PhoneNumberFilter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneNumberFilter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

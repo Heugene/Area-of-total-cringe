@@ -1,0 +1,17 @@
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\bin\Debug\LB6.exe
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\bin\Debug\LB6.pdb
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.Form1.resources
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.Properties.Resources.resources
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.exe
+D:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.pdb
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.exe
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.pdb
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\bin\Debug\LB6.exe
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\bin\Debug\LB6.pdb
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.Form1.resources
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.Properties.Resources.resources
+F:\Учебные документы Жени\ИСВП\ЛБ6\LB6\LB6\obj\x86\Debug\LB6.csproj.GenerateResource.Cache

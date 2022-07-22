@@ -1,0 +1,10 @@
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\bin\Debug\LB3.exe.config
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\bin\Debug\LB3.exe
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\bin\Debug\LB3.pdb
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\obj\Debug\LB3.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\obj\Debug\LB3.Form1.resources
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\obj\Debug\LB3.Form2.resources
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\obj\Debug\LB3.Properties.Resources.resources
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\obj\Debug\LB3.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\obj\Debug\LB3.exe
+F:\Учебные документы Жени\ИСВП\ЛБ3\LB3\LB3\obj\Debug\LB3.pdb

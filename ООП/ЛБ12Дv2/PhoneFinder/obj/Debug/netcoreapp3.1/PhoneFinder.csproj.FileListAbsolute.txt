@@ -1,0 +1,14 @@
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\bin\Debug\netcoreapp3.1\PhoneFinder.exe
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\bin\Debug\netcoreapp3.1\PhoneFinder.deps.json
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\bin\Debug\netcoreapp3.1\PhoneFinder.runtimeconfig.json
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\bin\Debug\netcoreapp3.1\PhoneFinder.runtimeconfig.dev.json
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\bin\Debug\netcoreapp3.1\PhoneFinder.dll
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\bin\Debug\netcoreapp3.1\PhoneFinder.pdb
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.AssemblyInfoInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.AssemblyInfo.cs
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.dll
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.pdb
+F:\Учебные документы Жени\ООП\ЛБ12Дv2\PhoneFinder\obj\Debug\netcoreapp3.1\PhoneFinder.genruntimeconfig.cache

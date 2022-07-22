@@ -1,0 +1,9 @@
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\bin\Debug\MatrixTaskV5.exe.config
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\bin\Debug\MatrixTaskV5.exe
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\bin\Debug\MatrixTaskV5.pdb
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\obj\Debug\MatrixTaskV5.csprojResolveAssemblyReference.cache
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\obj\Debug\MatrixTaskV5.Form1.resources
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\obj\Debug\MatrixTaskV5.Properties.Resources.resources
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\obj\Debug\MatrixTaskV5.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\obj\Debug\MatrixTaskV5.exe
+F:\Учебные документы Жени\ИСВП\Самостоятельная работа 2\MatrixTaskV5\MatrixTaskV5\obj\Debug\MatrixTaskV5.pdb

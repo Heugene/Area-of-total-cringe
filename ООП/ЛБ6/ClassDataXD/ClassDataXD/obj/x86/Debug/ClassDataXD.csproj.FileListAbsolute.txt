@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ6\ClassDataXD\ClassDataXD\bin\Debug\ClassDataXD.exe
+D:\Учебные документы Жени\ООП\ЛБ6\ClassDataXD\ClassDataXD\bin\Debug\ClassDataXD.pdb
+D:\Учебные документы Жени\ООП\ЛБ6\ClassDataXD\ClassDataXD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ6\ClassDataXD\ClassDataXD\obj\x86\Debug\ClassDataXD.exe
+D:\Учебные документы Жени\ООП\ЛБ6\ClassDataXD\ClassDataXD\obj\x86\Debug\ClassDataXD.pdb

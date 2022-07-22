@@ -1,0 +1,19 @@
+D:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\bin\Debug\Task2.exe
+D:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\bin\Debug\Task2.pdb
+D:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.exe
+D:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.pdb
+F:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\bin\Debug\Task2.exe
+F:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\bin\Debug\Task2.pdb
+F:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.exe
+F:\Учебные документы Жени\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.pdb
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.exe
+C:\Users\Admin\Documents\Labworks\Курсовая ООП Тест\Task2\Task2\obj\x86\Debug\Task2.pdb

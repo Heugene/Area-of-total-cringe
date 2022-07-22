@@ -1,0 +1,14 @@
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\bin\Debug\netcoreapp3.1\CollectionProgram.exe
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\bin\Debug\netcoreapp3.1\CollectionProgram.deps.json
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\bin\Debug\netcoreapp3.1\CollectionProgram.runtimeconfig.json
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\bin\Debug\netcoreapp3.1\CollectionProgram.runtimeconfig.dev.json
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\bin\Debug\netcoreapp3.1\CollectionProgram.dll
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\bin\Debug\netcoreapp3.1\CollectionProgram.pdb
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.AssemblyInfoInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.AssemblyInfo.cs
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.dll
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.pdb
+F:\Учебные документы Жени\ООП\ЛБ16Д\CollectionProgram\obj\Debug\netcoreapp3.1\CollectionProgram.genruntimeconfig.cache

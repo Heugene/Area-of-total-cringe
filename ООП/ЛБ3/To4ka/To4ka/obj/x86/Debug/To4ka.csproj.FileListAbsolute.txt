@@ -1,0 +1,11 @@
+D:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\bin\Debug\To4ka.exe
+D:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\bin\Debug\To4ka.pdb
+D:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\obj\x86\Debug\To4ka.exe
+D:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\obj\x86\Debug\To4ka.pdb
+F:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\bin\Debug\To4ka.exe
+F:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\bin\Debug\To4ka.pdb
+F:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\obj\x86\Debug\To4ka.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\obj\x86\Debug\To4ka.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\obj\x86\Debug\To4ka.exe
+F:\Учебные документы Жени\ООП\ЛБ3\To4ka\To4ka\obj\x86\Debug\To4ka.pdb

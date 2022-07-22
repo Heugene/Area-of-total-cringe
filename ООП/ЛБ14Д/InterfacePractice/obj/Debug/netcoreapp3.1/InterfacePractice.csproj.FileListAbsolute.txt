@@ -1,0 +1,14 @@
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.exe
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.deps.json
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.json
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.dev.json
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.dll
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.pdb
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfoInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfo.cs
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.dll
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.pdb
+F:\Учебные документы Жени\ООП\ЛБ14Д\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.genruntimeconfig.cache

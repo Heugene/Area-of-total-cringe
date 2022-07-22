@@ -1,0 +1,10 @@
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\bin\Debug\RS_DB_Editor.exe.config
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\bin\Debug\RS_DB_Editor.exe
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\bin\Debug\RS_DB_Editor.pdb
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\obj\Debug\RS_DB_Editor.Properties.Resources.resources
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\obj\Debug\RS_DB_Editor.csproj.GenerateResource.Cache
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\obj\Debug\RS_DB_Editor.exe
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\obj\Debug\RS_DB_Editor.pdb
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\obj\Debug\RS_DB_Editor.Main.resources
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\obj\Debug\RS_DB_Editor.Info.resources
+F:\Учебные документы Жени\Курсовая 3 курс 2 семестр\RS_DB_Editor\RS_DB_Editor\obj\Debug\RS_DB_Editor.csprojResolveAssemblyReference.cache

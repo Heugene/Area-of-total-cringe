@@ -1,0 +1,5 @@
+D:\Учебные документы Жени\ООП\ЛБ19\TovarChecker\TovarChecker\bin\Debug\TovarChecker.exe
+D:\Учебные документы Жени\ООП\ЛБ19\TovarChecker\TovarChecker\bin\Debug\TovarChecker.pdb
+D:\Учебные документы Жени\ООП\ЛБ19\TovarChecker\TovarChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебные документы Жени\ООП\ЛБ19\TovarChecker\TovarChecker\obj\x86\Debug\TovarChecker.exe
+D:\Учебные документы Жени\ООП\ЛБ19\TovarChecker\TovarChecker\obj\x86\Debug\TovarChecker.pdb

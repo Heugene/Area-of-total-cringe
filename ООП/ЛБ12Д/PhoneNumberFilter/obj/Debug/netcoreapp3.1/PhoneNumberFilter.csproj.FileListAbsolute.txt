@@ -1,0 +1,14 @@
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\bin\Debug\netcoreapp3.1\PhoneNumberFilter.exe
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\bin\Debug\netcoreapp3.1\PhoneNumberFilter.deps.json
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\bin\Debug\netcoreapp3.1\PhoneNumberFilter.runtimeconfig.json
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\bin\Debug\netcoreapp3.1\PhoneNumberFilter.runtimeconfig.dev.json
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\bin\Debug\netcoreapp3.1\PhoneNumberFilter.dll
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\bin\Debug\netcoreapp3.1\PhoneNumberFilter.pdb
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.csproj.AssemblyReference.cache
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.AssemblyInfoInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.AssemblyInfo.cs
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.csproj.CoreCompileInputs.cache
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.dll
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.pdb
+F:\Учебные документы Жени\ООП\ЛБ12Д\PhoneNumberFilter\obj\Debug\netcoreapp3.1\PhoneNumberFilter.genruntimeconfig.cache
